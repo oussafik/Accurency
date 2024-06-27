@@ -1,0 +1,11 @@
+model/
+models/
+cvModel/
+pipelineFit/
+.npm/
+.local/
+.jupyter/
+.ipython/
+.cache/
+.ipynb_checkpoints/
+.bash_history
